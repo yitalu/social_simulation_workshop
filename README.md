@@ -1,5 +1,3 @@
-# Social Simulation Workshop in Academia Sinica, 2021
-
 Dear workshop committee,
 
 Please find the required documents in the [application](./application) folder.
