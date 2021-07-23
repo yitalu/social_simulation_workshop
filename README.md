@@ -1,6 +1,6 @@
 Dear workshop committee,
 
-Please find the required documents in the [application](./application) folder.
+Please find the required documents in the [application](https://github.com/yitalu/social_simulation_workshop/tree/main/application) folder.
 
 The documents include:
 
